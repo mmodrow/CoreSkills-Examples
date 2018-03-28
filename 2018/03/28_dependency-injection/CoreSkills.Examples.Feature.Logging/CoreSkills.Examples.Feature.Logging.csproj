@@ -1,0 +1,11 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\CoreSkills.Examples.Foundation.Logging\CoreSkills.Examples.Foundation.Logging.csproj">
+      <Project>{0C049D55-0D33-484B-8315-AFC28A8A379D}</Project>
+      <Name>CoreSkills.Examples.Foundation.Logging</Name>
+    </ProjectReference>
+  </ItemGroup>
+</Project>
